@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Goro Aji 👋
 
-<!--
-**ajigoro77/ajigoro77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Informatics Student  
+💻 Web Developer & UI/UX Enthusiast  
+🤖 Interested in n8n Automation & Telegram Bot Integration  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- HTML
+- CSS
+- PHP
+- Java
+- MySQL
+- Git & GitHub
+- n8n Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### 📚 PHP Library Management System
+Web-based library system with CRUD features, borrowing transactions, and admin dashboard.
+
+### 🤖 Toko Gatgetin – n8n Automation
+Customer service automation using Telegram Bot and Google Sheets.
+
+### 🧕 Katriella Landing Page
+Responsive product landing page built using pure HTML & CSS.
+
+🔗 Portfolio:
+- https://ajigoro77.github.io/landing-page-hijab/
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/goroaji/
+- GitHub: https://github.com/ajigoro77
