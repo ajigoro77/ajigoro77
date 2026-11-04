@@ -1,4 +1,4 @@
-# Hi, I'm Goro Aji 👋
+# Hi, I'm Goro Aji Ramadhan 👋
 
 🎓 Final Year Informatics Student  
 💻 Web Developer & UI/UX Enthusiast  
