@@ -24,8 +24,9 @@ Customer service automation using Telegram Bot and Google Sheets.
 ### 🧕 Katriella Landing Page
 Responsive product landing page built using pure HTML & CSS.
 
-🔗 Portfolio:
+🔗 Latihan:
 - https://ajigoro77.github.io/landing-page-hijab/
+- https://ajigoro77.github.io/stego-notaris-landing/
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/goroaji/
